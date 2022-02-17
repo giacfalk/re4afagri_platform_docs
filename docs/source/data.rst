@@ -1,4 +1,4 @@
-Usage
+Getting the data
 =====
 
 .. _installation:
