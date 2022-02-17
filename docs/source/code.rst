@@ -6,6 +6,8 @@ Getting the code
 Installation
 ------------
 
+https://github.com/giacfalk/M-LED/wiki
+
 To use RE4AFAGRI platformfirst install it using pip:
 
 .. code-block:: console
